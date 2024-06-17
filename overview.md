@@ -5,10 +5,16 @@
 ### The Good Candy Company
 
 Known for making high-quality candy that is enjoyable but does not overload or addict children.
+![Good candy factory](images/good_factory.png)
+![Good candy ceo](images/good_candy_ceo.png)
+![Good candy logo](images/good_candy_logo.png)
 
 ### The Evil Candy Company
 
 Moves into the market with candy filled with excessive sugar and fructose, aiming to addict children without any regard for their health.
+![Evil candy factory](images/evil_candy_factory.png)
+![Evil candy CEO](images/evil_candy_ceo.png)
+![Evil candy logo](images/good_factory.png)
 
 ### The Impact on Children
 
